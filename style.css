@@ -1,0 +1,21 @@
+ul {
+    color: blue;
+}
+
+ol {
+    color: red;
+    font-family: Georgia, "Trebuchet MS", serif;
+}
+
+.ingredients {
+    font-family: Helvetica, "Courier New", sans-serif;
+    font-weight: bold;
+}
+
+h3, ul, ol {
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(223, 223, 159);
+}
